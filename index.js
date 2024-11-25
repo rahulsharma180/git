@@ -26,7 +26,7 @@ const makeCommit = n => {
 }
 
 
-makeCommit(100);
+makeCommit(100)
 
 // const jsonfile = require('jsonfile');
 // const moment = require('moment');
